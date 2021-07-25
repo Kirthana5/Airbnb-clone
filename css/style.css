@@ -1,5 +1,30 @@
 .alert-color
 {
-    background-color: #474750;
-    color: #a3a3a3;
+    background-color: #252529; 
+    font-size: medium;
+}
+a{
+    color: #a3a3a3;;
+}
+.header
+{
+    background-image: url(../img/hero.webp);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder !important;
+}
+.hh-padding
+{
+    font-size: 300% ;
+    padding-left: 80px;
+    padding-top: 190px;
+}
+.btn
+{
+    margin-left: 80px ;
+    margin-top: 1%; 
+    font-weight: normal !important;
 }
