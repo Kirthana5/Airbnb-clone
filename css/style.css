@@ -6,6 +6,10 @@
 a{
     color: #a3a3a3;;
 }
+*
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
 .header
 {
     background-image: url(../img/hero.webp);
@@ -13,7 +17,6 @@ a{
     width: 100%;
     background-size: cover;
     color: white;
-    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder !important;
 }
 .hh-padding
@@ -26,5 +29,23 @@ a{
 {
     margin-left: 80px ;
     margin-top: 1%; 
+    font-weight: normal !important;
+}
+.places
+{
+    padding-left: 60px;
+}
+.place
+{
+    height: 70px;
+    width: 70px;
+    border-radius: 12px;
+}
+.pl-text
+{
+    font-weight: 900 !important;
+}
+.pl-text2
+{
     font-weight: normal !important;
 }
